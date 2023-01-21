@@ -23,3 +23,5 @@ All of the following folders are projects done during the studies:
 | ------------ | ----------- |
 | [`0x00. Pascal's Triangle`](https://github.com/wendymunyasi/alx-interview/tree/master/0x00-pascal_triangle) | It aims to learn about the Pascal's triangle **Python language**.|
 | [`0x01. Lockboxes`](https://github.com/wendymunyasi/alx-interview/tree/master/0x01-lockboxes) | It aims to learn about locked boxes in **Python language**.|
+| [`0x02. Minimum Operations`](https://github.com/wendymunyasi/alx-interview/tree/master/0x02-minimum_operations) | It aims to learn about minimum operations in **Python language**.|
+| [`0x03. Log Parsing`](https://github.com/wendymunyasi/alx-interview/tree/master/0x03-log_parsing) | It aims to learn about log parsing in **Python language**.|
