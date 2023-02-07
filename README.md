@@ -27,3 +27,4 @@ All of the following folders are projects done during the studies:
 | [`0x03. Log Parsing`](https://github.com/wendymunyasi/alx-interview/tree/master/0x03-log_parsing) | It aims to learn about log parsing in **Python language**.|
 | [`0x04. UTF-8 Validation`](https://github.com/wendymunyasi/alx-interview/tree/master/0x04-utf8_validation) | It aims to learn about UTF-8 validation in **Python language**.|
 | [`0x05. N Queens`](https://github.com/wendymunyasi/alx-interview/tree/master/0x05-nqueens) | It aims to learn about the N queens puzzle in **Python language**.|
+| [`0x06. Star Wars API`](https://github.com/wendymunyasi/alx-interview/tree/master/0x05-nqueens) | It aims to learn about how to use the star wars API in **JavaScript language**.|
