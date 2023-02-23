@@ -37,4 +37,4 @@ Tel: *+254707240068.*
 
 ## Collaborate
 
-To collaborate, reach me through my email address wendymunyasi@gmail.com.To be updated later
+To collaborate, reach me through my email address wendymunyasi@gmail.com.
