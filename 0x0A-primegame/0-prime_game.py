@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def isWinner(x, nums):
     def get_primes(n):
         primes = [True] * (n + 1)
@@ -14,7 +15,8 @@ def isWinner(x, nums):
         for p in primes:
             if p in nums:
                 moves += [p *
-                          i for i in range(1, (max(nums) // p) + 1) if p * i in nums]
+                          i for i in
+                          range(1, (max(nums) // p) + 1) if p * i in nums]
         if not moves:
             return 'Maria' if player == 'Ben' else 'Ben'
         next_player = 'Maria' if player == 'Ben' else 'Ben'
